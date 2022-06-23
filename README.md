@@ -54,6 +54,9 @@ The performance of these models is shown in by number of episodes
 
 
 
-![200](https://user-images.githubusercontent.com/70255794/175225037-63d3b173-1c03-46a7-a2db-e64b65fa7a14.gif)  200 Episodes
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70255794/175225069-777ff7b7-0cc4-4265-bd61-cb3aa8a39fac.gif) 300 Episodes
-![450](https://user-images.githubusercontent.com/70255794/175225118-822df131-1cde-4148-b843-16f18f18b49d.gif) 450 Episodes
+![200](https://user-images.githubusercontent.com/70255794/175225037-63d3b173-1c03-46a7-a2db-e64b65fa7a14.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70255794/175225069-777ff7b7-0cc4-4265-bd61-cb3aa8a39fac.gif)
+![450](https://user-images.githubusercontent.com/70255794/175225118-822df131-1cde-4148-b843-16f18f18b49d.gif)
+
+
+200 Episodes                300 Episodes                450 Episodes
