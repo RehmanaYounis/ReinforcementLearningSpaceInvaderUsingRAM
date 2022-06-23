@@ -1,8 +1,8 @@
-***Reinforcement Learning Space Invader Using RAM***
+***Reinforcement Learning Space Invader Using RAM:***
 In this project, I implement a deep learning model to successfully learn control policies directly from high-dimensional sensory inputs using reinforcement learning. We chose to work with RAM Monitor. In this case, environmental monitoring is provided by the state of the RAM, that is, a set of 128 values. Each value is a byte (an integer from 0 to 255). RAM is a compact representation of state compared to algorithms that display the image as a state. In this environment, the player can perform 6 actions: NOOP, RIGHT, LEFT, FIRE, RIGHTFIRE and LEFTFIRE. The reward in the Space Invaders gym environment is the result in the given time step. We notice that different invaders (aliens) have different ranks. 
 ##Authors: Nicolás Arrieta Larraza
 
-+ ***Motivation***
++ ***Motivation*:**
 Quote - Gaming is an Intelligent Art. PERIOD.
 As kids we always were intrigued with gaming and computers. One specific part of gaming is 
 Arcade games which involves custom built machines which has its own ways of playing each 
@@ -18,7 +18,7 @@ being. This agent will use only the present state of the environment and make de
 learning over the time. The very thought is straight from sci-fi but in this generation, it is 
 possible for an agent to play with high performance and sometimes better than us.
 
-+ ***Approach and Methods***
++ ***Approach and Methods:***
 In this project, we use the open-source Atari emulator for OpenAI (Brockman et al. 2016), 
 OpenAI gym. This emulator offers two possible environments to play Space Invaders. 
 The first environment represents each state with a raw RGB image with input dimensions of 
@@ -34,7 +34,7 @@ in various ways. In this section, we introduce the concept of Deep Q-Nets, reexp
 dual-Q learning, all of which are important components of our approach
 
 
-+ ***Experiments on the RAM State Space***
++ ***Experiments on the RAM State Space:***
 The Atari 2600 uses 128 bytes of RAM for its internal representation of the game state. This 
 compact representation is intended to hold all the information that describes the current state of 
 the game. This relatively low dimensional representation is attractive way for learning by 
@@ -56,4 +56,4 @@ The performance of these models is shown in by number of episodes
 ![450](https://user-images.githubusercontent.com/70255794/175225118-822df131-1cde-4148-b843-16f18f18b49d.gif)
 
 
-200 Episodes.......300 Episodes.........450 Episodes
+200 Episodes             300 Episodes                    450 Episodes
