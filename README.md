@@ -56,4 +56,4 @@ The performance of these models is shown in by number of episodes
 ![450](https://user-images.githubusercontent.com/70255794/175225118-822df131-1cde-4148-b843-16f18f18b49d.gif)
 
 
-200 Episodes  &nbsp;          300 Episodes                 450 Episodes
+200 Episodes  &nbsp;&nbsp;&nbsp;&nbsp;          300 Episodes &nbsp;&nbsp;&nbsp;&nbsp;                450 Episodes
